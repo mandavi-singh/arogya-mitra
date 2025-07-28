@@ -12,7 +12,7 @@ st.set_page_config(page_title="Arogya Mitra", page_icon="🩺", layout="centered
 st.title("🩺 Arogya Mitra - AI Disease Predictor")
 
 # Add app description
-st.markdown("""
+st.markdown(""" Welcome to **Arogya Mitra**, your AI-powered medical assistant! 🤖
 ### 📘 About Arogya Mitra
 **Arogya Mitra** is an AI-powered web application that predicts possible diseases based on the symptoms you select.  
 It also provides:
