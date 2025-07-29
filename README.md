@@ -36,8 +36,4 @@ Arogya Mitra is a **Healthcare AI Assistant** built using Google's **Gemini Pro 
 
 ## 🖼️ Screenshots
 
-(You can insert screenshots of your app here. Use:
-
-```md
-![Screenshot](<img width="1092" height="636" alt="image" src="https://github.com/user-attachments/assets/1b240845-95ae-4498-be7b-e7113b8a0118" />
-)
+![Screenshot](https://github.com/user-attachments/assets/1b240845-95ae-4498-be7b-e7113b8a0118)
