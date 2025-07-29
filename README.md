@@ -13,10 +13,10 @@ The dataset used in this project was sourced from Kaggle:
 
 This dataset consists of **4 CSV files** that include:
 
-- Symptoms to disease mapping
-- Disease descriptions
-- Precautions
-- Medications
+- dataset
+- Symptom-severity
+- symptom_Description
+- symptom_precaution
 
 ---
 
@@ -52,9 +52,13 @@ This dataset consists of **4 CSV files** that include:
 ## 📂 Project Structure
 
 Healthcare-AI-Assistant/
+
 ├── healthcare_ai_assistant.py # Main Python file
+
 ├── dataset/ # Contains 4 Kaggle CSV files
+
 ├── README.md # Project documentation
+
 ├── requirements.txt # Python dependencies
 
 
@@ -67,7 +71,7 @@ Make sure you have Python 3 installed. Then:
 
 ```bash
 pip install -r requirements.txt
-python healthcare_ai_assistant.py
+python healthcare_ai_assistant.py```
 
 ⚠️ Note
 This is a prototype system for educational purposes only.
