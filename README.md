@@ -1,4 +1,3 @@
-# arogya-mitra
 # Arogya Mitra 🤖💊
 
 Arogya Mitra is a **Healthcare AI Assistant** built using Google's **Gemini Pro (Generative AI)** model via `google-generativeai`. It helps users understand symptoms and suggests preliminary medical advice — just like a digital health companion. Built with `Streamlit`, it's easy to use and deploy!
