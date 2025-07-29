@@ -99,7 +99,7 @@ def predict_disease(symptoms, model, all_symptoms, label_encoder):
     return label_encoder.inverse_transform(prediction)[0]
 
 # Example test
-test_symptoms = ['headache', 'fever']
+test_symptoms = ['headache', 'highfever']
 print("\nPredicted disease (Random Forest):", predict_disease(test_symptoms, rf_model, all_symptoms, le))
 
 
