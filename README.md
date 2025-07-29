@@ -49,21 +49,6 @@ This dataset consists of **4 CSV files** that include:
 
 ---
 
-## 📂 Project Structure
-
-Healthcare-AI-Assistant/
-
-├── healthcare_ai_assistant.py # Main Python file
-
-├── dataset/ # Contains 4 Kaggle CSV files
-
-├── README.md # Project documentation
-
-├── requirements.txt # Python dependencies
-
-
-
----
 
 
 
