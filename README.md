@@ -20,34 +20,12 @@ This dataset consists of **4 CSV files** that include:
 
 ---
 
-## 🧠 Models Used
 
-| Model           | Accuracy |
-|----------------|----------|
-| Random Forest  | ✅ 1.0    |
-| SVM            | ⚠️ 0.6885 |
 
 **Random Forest** gave perfect classification, whereas **SVM** performance varied across classes.
 
 ---
 
-## 📊 Performance Summary
-
-### 🔹 Random Forest
-- Accuracy: **1.0**
-- Classification Report: Precision, Recall, F1-score all = 1.00
-- Confusion Matrix: No misclassifications
-
-### 🔸 SVM
-- Accuracy: ~**0.69**
-- Lower performance on minority classes
-- Cross-Validation Accuracy: **~0.71**
-- Best hyperparameters from GridSearchCV:
-  - `C = 0.1`
-  - `kernel = linear`
-  - `gamma = scale`
-
----
 
 
 
