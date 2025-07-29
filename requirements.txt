@@ -1,7 +1,7 @@
 streamlit
 google-generativeai
+joblib
+scikit-learn
 pandas
 reportlab
 numpy
-streamlit-pdf
-joblib
