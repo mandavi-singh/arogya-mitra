@@ -65,24 +65,7 @@ Healthcare-AI-Assistant/
 
 ---
 
-## 💻 How to Run
 
-Make sure you have Python 3 installed. Then:
-
-```bash
-pip install -r requirements.txt
-python healthcare_ai_assistant.py```
-
-⚠️ Note
-This is a prototype system for educational purposes only.
-
-It should not be used for real medical diagnosis.
-
-Use of a more diverse and medically verified dataset is needed for production-level deployment.
-
-
-
----
 
 ## 🚀 Live App
 
